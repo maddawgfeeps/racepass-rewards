@@ -4,7 +4,7 @@ Prerequisite :
 - SeasonPassMilestoneRewards.meta
 - TranslationDataAsset.json
 
-Within the dir of the python script.
+Put within the dir where the python script will be run.
 
 Usage : python .\racepassrewardsextract.py
 
