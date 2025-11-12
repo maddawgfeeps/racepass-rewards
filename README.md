@@ -1,8 +1,8 @@
 # racepass-rewards
 
 Prerequisite :
-SeasonPassMilestoneRewards.meta
-TranslationDataAsset.json
+- SeasonPassMilestoneRewards.meta
+- TranslationDataAsset.json
 
 Within the dir of the python script.
 
